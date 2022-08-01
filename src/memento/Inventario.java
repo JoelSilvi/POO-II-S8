@@ -1,7 +1,6 @@
 package memento;
 
 public class Inventario {
-	private int cantidad, costoBruto, costoVenta, ingresoCantidad, egresoCantidad;
 	private String modelo, descripcion;
 	
 	
